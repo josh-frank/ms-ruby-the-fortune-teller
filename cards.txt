@@ -78,7 +78,7 @@ Repose. Replenishment. Solitude. Exile. Retreat. Temporary seclusion. Abandonmen
 Activity. Circumspection. Precaution. Economy. Guarded advancement. Desire to recover what is lost.
 THE FIVE OF SWORDS
 Conquest. Defeat. Destruction of others. Degradation. A potential adversary. Revocation. Infamy. Dishonor. Sentimentality that weakens the will.
-Uncertain outlook. Chance of loss or defeat. Weakness. Possible misfortune befalling a friend. Seduction. Burial.
+An uncertain outlook. A possible loss or defeat. Weakness. Misfortune befalling a friend. Seduction. Burial.
 THE SIX OF SWORDS
 A journey by water. Travel. Voyage. a headstrong attempt to overcome difficulty. Expedience. Success after anxiety.
 Stalemate. An unwanted proposal. A difficult situation without an immediate solution. A confession. A declaration.
@@ -119,7 +119,7 @@ THE FOUR OF COINS
 Love of material wealth. A hoarder or miser. Usury. A lack of generosity. An inability to share. Greed. A fear of financial upset. Acquisitiveness.
 A financial setback. An obstacle. Opposition to further gain. Suspense and delay. A spendthrift. A skinflint.
 THE FIVE OF COINS
-Material trouble. Destitution. Loss. Failure. Error. Impoverishment. Mistress. Lover. Affection. Loss of job. Emotional confusion causes monetary problems.
+Material trouble. Destitution. Loss. Failure. Error. Impoverishment. A lover. Affection. Loss of job. Money problems caused by emotion.
 Reversal of bad trend. New interest in matters. Overcoming ruin. Disharmony in marriage or love interests.
 THE SIX OF COINS
 Generosity. A philanthropist. Charity. Kindness. Gratification. Gifts. Material gain. Shared wealth. Measured generosity. A much-needed favor.
@@ -171,7 +171,7 @@ Success. Strategic gain. Obstacles and challenges. Overwhelming odds surmounted.
 Consternation. Anxiety. Embarrassment. Indecision. Hesitancy causing losses. Uncertainty. Perplexity. Doubt.
 THE EIGHT OF WANDS
 Swift activity. Sudden progress or movement. Speed. Hastily made decisions. Too rapid advancement. Messages delivered instantly.
-Jealousy. Harassment. A legal dispute. An injury caused by negligence. Discord. Delay. Stagnation. A domestic quarrel.  
+Jealousy. Harassment. A legal dispute. An injury caused by negligence. Discord. Delay. Stagnation. A domestic quarrel.
 THE NINE OF WANDS
 Expectation of difficulties and changes. Awaiting tribulation. Anticipation. Hidden enemies. Deception. Discipline. Order. A pause in a current struggle.
 Obstacles. Adversity. Problems. Delays. Displeasure. Calamity. Disaster. Barriers to overcome. Ill health.
@@ -197,7 +197,7 @@ THE TWO OF CUPS
 Friendship. Passion. Engagement. Renewal. Understanding. Cooperation. Partnership. Unity against all odds. Agreement. Harmony.
 Unsatisfactory love. False friendship. Troubled relationship. Divorce. Crossed desires. Opposition. Misunderstanding.
 THE THREE OF CUPS
-Resolution of a problem. Conclusion. Solace. Healing. Satisfactory result. Fulfillment. Compromise. Friendship among women. Inspiration in arts.
+Resolution of a problem. Conclusion. Solace. Healing. A satisfactory result. Fulfillment. Compromise. Friendship among women. Inspiration in arts.
 Excess. Overabundance. Indulgence. Superfluity. Loss of prestige. Fall from grace. Delays. Ingratitude.
 THE FOUR OF CUPS
 Weariness. Aversion. Disgust. Disappointment. Unhappiness. Bitterness. Stagnation. Discontent in spite of abundance.
@@ -216,9 +216,9 @@ Discontinuance of effort. Disappointment. Abandonment of previous plans. Shyness
 Effort continued until full success is attained. Festivity. Joy. Gaiety. Feasting. Pleasure. Holidays.
 THE NINE OF CUPS
 Success. Windfall. Advantage. Well-being. Abundance. Good health. Victory. Difficulties surmounted. Stability. Fulfillment.
-A terrible mistake. Material loss. Imperfections. Misplaced truth. False freedom. Opposition. Differences. Dispute.
+A terrible mistake. Material loss. Imperfections. Misplaced truth. False freedom. Opposition. Difference. Dispute.
 THE TEN OF CUPS
-Home. Abode. Belonging. Contentment. Family life. Esteem. Virtue. Reputation. Community support.
+A home or abode. A sense of belonging. Contentment. Family life. Esteem. Virtue. A good reputation. Community support.
 A lost friendship. Unhappiness. Family quarreling. Pettiness. Rage. Combat. Strife. Opposition. A difference of opinion.
 THE PAGE OF CUPS
 Studiousness. Reflection. Meditation. Loyalty. Focused effort. Much-needed help. Trustworthiness. Timeliness.
